@@ -1,0 +1,6 @@
+C:\Users\evgeny\source\repos\md5file\md5file\bin\Debug\md5file.exe
+C:\Users\evgeny\source\repos\md5file\md5file\bin\Debug\md5file.pdb
+C:\Users\evgeny\source\repos\md5file\md5file\obj\Debug\md5file.csprojAssemblyReference.cache
+C:\Users\evgeny\source\repos\md5file\md5file\obj\Debug\md5file.csproj.CoreCompileInputs.cache
+C:\Users\evgeny\source\repos\md5file\md5file\obj\Debug\md5file.exe
+C:\Users\evgeny\source\repos\md5file\md5file\obj\Debug\md5file.pdb
